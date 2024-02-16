@@ -29,7 +29,8 @@ github_username:  aurora-451
 
 # Build settings
 #theme: minima
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+# them minimal-mistakes-jekyll
 # when used with Github pages, use the following line
 # remote_theme: "mmistakes/minimal-mistakes@4.24.0" 
 
