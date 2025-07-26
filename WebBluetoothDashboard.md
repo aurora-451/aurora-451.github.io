@@ -1,3 +1,3 @@
 layout: page
 title: "WebBluetoothDashboard"
-permalink: /Adafruit_WebBluetooth_Dashboard-20250726/index.html
+permalink: /Adafruit_WebBluetooth_Dashboard-20250726/
